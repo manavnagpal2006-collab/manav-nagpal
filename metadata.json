@@ -1,0 +1,6 @@
+{
+  "name": "LipShade AI",
+  "description": "Unlock your perfect lipstick shades with LipShade AI, a luxury beauty-tech experience combining AI skin-tone analysis, virtual camera try-on overlays, and an interactive personal beauty chatbot.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
